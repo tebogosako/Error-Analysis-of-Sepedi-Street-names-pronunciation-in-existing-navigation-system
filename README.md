@@ -101,5 +101,5 @@ Final analysis date: 2026-10-18
 
 **Tebogo Sako**  
 Student number: 23823739  
-HRCOS82 Honours Research Report, Assignment 2  
+HRCOS82 Honours Research Report 
 University of South Africa
