@@ -89,14 +89,6 @@ python run_final_analysis.py
 - Accent transfer (`ACC-01`)
 - General mispronunciation (`MISC-01`)
 
-## Analysis version
-
-```text
-Repository: [https://github.com/your-username/sepedi-pronunciation-analysis](https://github.com/your-username/sepedi-pronunciation-analysis)
-Commit: replace-with-commit-hash
-Final analysis date: 2026-10-18
-```
-
 ## Author
 
 **Tebogo Sako**  
